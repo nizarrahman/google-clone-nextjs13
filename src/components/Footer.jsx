@@ -7,8 +7,9 @@ export default function Footer() {
         <CountryLookup />
       </div>
       <div className="flex flex-col sm:flex-row justify-between items-center px-8 py-3 space-y-7 sm:space-y-0">
+
         <ul className="flex items-center space-x-6">
-          <li className="link">About</li>
+          <li className="link"><a href="https://instagram.com/nizarrrahman.f_">About</li></a>
           <li className="link">Advertising</li>
           <li className="link">Business</li>
           <li className="link">How Search works</li>
